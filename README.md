@@ -7,6 +7,7 @@ A parte de serviços, acessos e banco de dados é mockada, para uso do padrão e
 
 ## Descrição dos arquivos do projeto
 
+<pre>
 └── src
     ├── main
     │   ├── java
@@ -31,7 +32,7 @@ A parte de serviços, acessos e banco de dados é mockada, para uso do padrão e
                     └── circuitbreaker
                         ├── TesteComCircuitBreaker.java - teste dos serviços com circuit breaker
                         └── TesteSemCircuitBreaker.java - teste dos serviços com circuit breaker
-
+</pre>
 
 ## Referências
 
