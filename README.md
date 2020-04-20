@@ -36,5 +36,5 @@ A parte de serviços, acessos e banco de dados é mockada, para uso do padrão e
 
 ## Referências
 
-* [CircuitBreaker - Martion Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
+* [CircuitBreaker - Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
 * [Netflix Hystrix](https://github.com/Netflix/Hystrix/) 
